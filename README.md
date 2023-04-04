@@ -21,7 +21,7 @@
 
 在这个项目里，添加 `.gitignore`,`package.json`,`vite.config.js` 文件
 
-`.gitignore` 中，把 `node_modules`,`unpackage`,`.hbuilderx` 这一类不像被添加到 `git` 的添加进去。
+`.gitignore` 中，把 `node_modules`,`unpackage`,`.hbuilderx` 这一类不想被添加到 `git` 的添加进去。
 ```txt
 unpackage
 node_modules
